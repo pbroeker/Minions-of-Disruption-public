@@ -31,6 +31,7 @@ The MVP of the game (featured screenshots) was build in 10 days by the wonderful
 - Deploy completely
 - DevOps
 - Improving UX
+- Add spectator-feature
 ```
 
 ## Would you like to be involved? :raising_hand_woman::raising_hand_man:
