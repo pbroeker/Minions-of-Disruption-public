@@ -11,9 +11,9 @@
 <img src="./assets/disruptions.png" alt="disruptions" style="width: 50%;" />
 
 ## About :seedling:
-Minions of Disruption is the online version of a board game about climate change. The game is made for the Dutch NGO, [Day of Adaptation](https://dayad.org/), and is trademarked - therefore the code cannot be publicly shared. 
+Minions of Disruption is the online version of the board game of the same name. The game is made for the Dutch NGO, [Day of Adaptation](https://dayad.org/), and is trademarked - therefore the code cannot be publicly shared. 
 
-The game is a multiplayer turn-based board-game-turned-online that requires strong teamwork to complete. The game is played on a single board, but each session is intended to have several groups of people playing at different boards at once, each having an effect on the neighbouring tables.
+This is a multiplayer turn-based board-game-turned-online that requires strong teamwork to complete. The game is played on a single board, but each session is intended to have several groups of people playing at different boards at once, each having an effect on the neighbouring tables.
 
 The MVP of the game (featured screenshots) was build in 10 days by the wonderful people featured below  :superhero_woman::superhero_man::superhero_man::superhero_man:
 
