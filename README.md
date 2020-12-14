@@ -1,5 +1,7 @@
 # Minions of Disruption [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 
+The game is made for the Dutch NGO, [Day of Adaptation](https://dayad.org/), and is trademarked - therefore the code cannot be publicly shared.
+
 <p align="center">
 <img src="./assets/game.gif" alt="game-gif" style="width: 100%;" />
 </p>
